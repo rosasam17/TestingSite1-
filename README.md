@@ -1,2 +1,6 @@
-# TestingSite1-
-practicing building a repository 
+## fav places
+
+# ocean shores is *so fun*
+
+I love going to sharky's 
+
